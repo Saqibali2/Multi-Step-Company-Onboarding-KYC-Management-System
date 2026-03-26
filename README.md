@@ -1,6 +1,6 @@
 # 🏢 Multi-Step Company Onboarding & KYC Management System
 
-![System Preview](adminpanel/assets/display%20image.png)
+![System Preview](adminpanel/assets/preview.png)
 
 ---
 
